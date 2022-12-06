@@ -1,0 +1,35 @@
+body{
+    background-color: lightgreen;
+}
+
+.calculadora {
+    margin-top: 200px;
+    text-align: center;
+}
+
+.calculadora input{
+    width: 300px;
+    height: 50px;
+    font-size: 40px;
+    text-align: center;
+    background-color: rgb(27, 27, 27);
+}
+
+.calculadora select{
+    background-color: rgba(0, 128, 0, 0.788);
+    width: 300px;
+    height: 50px;
+    font-size: 40px;
+    text-align: center;
+}
+
+#resultado {
+    text-align: center;
+    background-color: black;
+    border-radius: 4px;
+    font-size: 40px;
+    max-width: fit-content;
+    margin: auto;
+    margin-top: 10px;
+    padding: 5px;
+}
